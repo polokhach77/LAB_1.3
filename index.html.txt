@@ -22,6 +22,8 @@
 
   <p><strong>This is LAB_1.2 with new commit</strong></p>
 
+<a href="https://www.lnu.edu.ua"> Visit us! We are the best!</a>
+
 </body>
 
  
